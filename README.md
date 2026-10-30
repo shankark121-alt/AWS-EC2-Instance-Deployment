@@ -1,4 +1,4 @@
-#**PROJECT OVERVIEW**
+# **PROJECT OVERVIEW**
 
 Amazon Elastic Compute Cloud (Amazon EC2) is a cloud computing service provided by Amazon Web Services (AWS). It allows users to create and manage virtual servers in the cloud.
 
