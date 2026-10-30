@@ -99,9 +99,30 @@ SSH command:
 
 ssh -i "my-key.pem" ec2-user@PUBLIC-IP
 
-# **C2 INSTANCE LIFECYCLE**
+# **EC2 INSTANCE LIFECYCLE**
 
 <img width="761" height="543" alt="image" src="https://github.com/user-attachments/assets/2d638415-604a-4534-afd9-ca65ce760ed1" />
+
+| State         | Meaning                                   |
+| ------------- | ----------------------------------------- |
+| Pending       | Instance is starting.                     |
+| Running       | Instance is operational.                  |
+| Stopping      | Instance is shutting down.                |
+| Stopped       | Instance is not running.                  |
+| Shutting-down | Instance is being terminated.             |
+| Terminated    | Instance has been permanently terminated. |
+
+# **ADVANTAGES OF AMAZON EC2**
+
+Scalable computing resources.
+Flexible operating system selection.
+Pay-as-you-go pricing.
+Remote server management.
+Integration with other AWS services.
+Supports website hosting and application deployment.
+Provides configurable networking and security.
+
+
 
 
 
