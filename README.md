@@ -115,12 +115,24 @@ ssh -i "my-key.pem" ec2-user@PUBLIC-IP
 # **ADVANTAGES OF AMAZON EC2**
 
 Scalable computing resources.
+
 Flexible operating system selection.
+
 Pay-as-you-go pricing.
+
 Remote server management.
+
 Integration with other AWS services.
+
 Supports website hosting and application deployment.
+
 Provides configurable networking and security.
+
+# **CONCLUSION**
+
+This project helped me understand how to create and manage virtual servers using Amazon EC2. I learned how to configure operating systems, 
+networking, storage, security groups, and remote access. This practical experience improved my understanding of AWS cloud infrastructure and 
+server management.
 
 
 
